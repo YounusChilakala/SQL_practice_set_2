@@ -1,3 +1,4 @@
+-- convert negative to positive and vice versa
 DROP TABLE IF EXISTS tablefortest; 
 CREATE TABLE tablefortest(srno int,  pos_neg_val int);
 INSERT INTO tablefortest VALUES (1, 56);
